@@ -6,7 +6,6 @@ Repository ini juga menyertakan file tampilan web  :
 https://docs.google.com/document/d/16KdtLXlDJnWaRX7jixmID3cLk2B9qhNitn37DoJtXCI/edit?usp=sharing 
 
 Repository ini berisi tugas akhir dari praktikum Percobaan judul 4 yaitu PHP & Manipulasi Form, yang bertujuan untuk memahami cara kerja pengolahan data menggunakan form pada PHP.
-Dalam percobaan ini, pengguna meng-input data melalui form, kemudian data tersebut diproses menggunakan PHP, ditampilkan kembali, atau disimpan sesuai kebutuhan aplikasi.
 
 - Tujuan Pembelajaran
 Memahami mekanisme dasar form HTML.
